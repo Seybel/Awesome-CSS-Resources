@@ -148,7 +148,7 @@
 ## Learn by playing
 
 - [Grid Garden](https://cssgridgarden.com/)
-- [Unfold](hhttps://rupl.github.io/unfold/)
+- [Unfold](https://rupl.github.io/unfold/)
 - [Flexbox defense](http://www.flexboxdefense.com/)
 - [CSS Diner](https://flukeout.github.io/)
 - [Flexbox froggy](https://flexboxfroggy.com/)
