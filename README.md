@@ -61,7 +61,7 @@
 - [Code my UI](https://codemyui.com/tag/pure-css/)
 
 ## Documents and notes
-- [W3 Schools](https://www.w3schools.com/css/)https://keyframes.app/
+- [W3 Schools](https://www.w3schools.com/css/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [DevDocs](https://devdocs.io/css/)
 - [Geeks for geeks](https://www.geeksforgeeks.org/css-tutorials/)
