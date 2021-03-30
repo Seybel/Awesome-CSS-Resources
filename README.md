@@ -10,35 +10,22 @@
 
 ## Table of Contents
 
-- [Colors](#colors)
 - [AI integrated color picker](#ai-integrated-color-picker)
+- [Animation Libraries](#animation-libraries)
+- [Cheat Sheets](#cheat-sheets)
+- [Chrome Extension](#chrome-extension)
 - [Code Snippets](#code-snippets)
-- [Document and notes](#document-and-notes)
+- [Colors](#colors)
 - [CSS generator](#css-generator)
 - [Design Inspiration](#design-inspiration)
+- [Document and notes](#document-and-notes)
 - [GitHub Repo](#github-repo)
-- [Cheat Sheets](#cheat-sheets)
-- [Validators](#validators)
-- [Chrome Extension](#chrome-extension)
-- [YouTube](#youtube)
-- [Animation Libraries](#animation-libraries)
-- [Threads](#threads)
-- [Websites](#websites)
 - [Learn by playing](#learn-by-playing)
 - [Templates](#templates)
-
-## Colors
-
-- [Color Hunt](https://colorhunt.co/)
-- [Coolers](https://coolors.co/)
-- [HTML color codes](https://htmlcolorcodes.com/)
-- [UI Gradients](https://uigradients.com/)
-- [Gradient generator](https://cssgradient.io/)
-- [Encycolorpedia](https://encycolorpedia.com/)
-- [WebFx](https://www.webfx.com/web-design/color-picker/)
-- [Radial Gradients](https://www.css-gradient.com/)
-- [COLORS](https://clrs.cc/)
-- [Flat UI colors 2](https://flatuicolors.com/)
+- [Threads](#threads)
+- [Validators](#validators)
+- [Websites](#websites)
+- [YouTube](#youtube)
 
 ## AI integrated color picker
 
@@ -47,49 +34,15 @@
 - [Eva Design System](https://colors.eva.design/)
 - [AI color generator](https://hotpot.ai/color-generator)
 
-## Code Snippets
+## Animation libraries
 
-- [Web Tools](https://webcode.tools/generators/css)
-- [Little Snippets](https://littlesnippets.net/)
-- [Enjoy CSS](https://enjoycss.com/)
-- [CSS Tricks](https://css-tricks.com/snippets/css/)
-- [CSS Deck](https://cssdeck.com/)
-- [W3 How To](https://www.w3schools.com/howto/)
-- [Snipplr](https://snipplr.com/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/css)
-- [Codepen](https://codepen.io/collection/DYpwPE)
-- [Code my UI](https://codemyui.com/tag/pure-css/)
-
-## Document and notes
-
-- [W3 Schools](https://www.w3schools.com/css/)
-- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [DevDocs](https://devdocs.io/css/)
-- [Geeks for geeks](https://www.geeksforgeeks.org/css-tutorials/)
-- [Tutorials point](https://www.tutorialspoint.com/tutorial_view.php?cid=css&pid=index.htm)
-
-## CSS generator
-
-- [Stripes generator](https://stripesgenerator.com/)
-- [Gradient generator](https://cssgradient.io/)
-- [Pattern generator](http://www.patternify.com/)
-- [Animation generator](https://keyframes.app/)
-- [Layout generator](https://grid.layoutit.com/)
-
-## Design Inspiration
-
-- [CSS design awards](https://cssdesignawards.com/)
-- [Awwwards](https://www.awwwards.com/websites/css3/)
-- [CSS nectar](https://cssnectar.com/)
-- [Design modo](https://designmodo.com/css-website-designs/)
-- [Gradient generator](https://csswinner.com/)
-
-## GitHub Repo
-
-- [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
-- [30 seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)
-- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
-- [Awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+- [Animate.css](https://animate.style/)
+- [OBNOXIOUS.css](https://tholman.com/obnoxious/)
+- [CSShake](http://elrumordelaluz.github.io/csshake/)
+- [Anim XYZ](https://animxyz.com/)
+- [Animista](https://animista.net/)
+- [Hover.CSS](http://ianlunn.github.io/Hover/)
+- [Magic](https://www.minimamente.com/project/magic/)
 
 ## Cheat Sheets
 
@@ -112,38 +65,62 @@
 - [CSS viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
 - [CSS Scan](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
 
-## YouTube
+## Code Snippets
 
-- [Free code camp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [Traversy media](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [Coding artist](https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ)
-- [Edureka](https://www.youtube.com/watch?v=3_9znKVNe5g)
-- [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
+- [Web Tools](https://webcode.tools/generators/css)
+- [Little Snippets](https://littlesnippets.net/)
+- [Enjoy CSS](https://enjoycss.com/)
+- [CSS Tricks](https://css-tricks.com/snippets/css/)
+- [CSS Deck](https://cssdeck.com/)
+- [W3 How To](https://www.w3schools.com/howto/)
+- [Snipplr](https://snipplr.com/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/css)
+- [Codepen](https://codepen.io/collection/DYpwPE)
+- [Code my UI](https://codemyui.com/tag/pure-css/)
 
-## Animation libraries
+## Colors
 
-- [Animate.css](https://animate.style/)
-- [OBNOXIOUS.css](https://tholman.com/obnoxious/)
-- [CSShake](http://elrumordelaluz.github.io/csshake/)
-- [Anim XYZ](https://animxyz.com/)
-- [Animista](https://animista.net/)
-- [Hover.CSS](http://ianlunn.github.io/Hover/)
-- [Magic](https://www.minimamente.com/project/magic/)
+- [Color Hunt](https://colorhunt.co/)
+- [Coolers](https://coolors.co/)
+- [HTML color codes](https://htmlcolorcodes.com/)
+- [UI Gradients](https://uigradients.com/)
+- [Gradient generator](https://cssgradient.io/)
+- [Encycolorpedia](https://encycolorpedia.com/)
+- [WebFx](https://www.webfx.com/web-design/color-picker/)
+- [Radial Gradients](https://www.css-gradient.com/)
+- [COLORS](https://clrs.cc/)
+- [Flat UI colors 2](https://flatuicolors.com/)
 
-## Threads
+## CSS generator
 
-- [CSS arts](https://twitter.com/Prathkum/status/1306555442298908672?s=20)
-- [Grid](https://twitter.com/Prathkum/status/1374652212928987137?s=20)
-- [Flex](https://twitter.com/Prathkum/status/1361931227830358018?s=20)
-- [CSS Animations](https://twitter.com/Prathkum/status/1366278875467153413)
+- [Stripes generator](https://stripesgenerator.com/)
+- [Gradient generator](https://cssgradient.io/)
+- [Pattern generator](http://www.patternify.com/)
+- [Animation generator](https://keyframes.app/)
+- [Layout generator](https://grid.layoutit.com/)
 
-## Websites
+## Design Inspiration
 
-- [CSS reference](https://cssreference.io/)
-- [Learn to code](https://learn.shayhowe.com/)
-- [CSS layouts](https://learnlayout.com/)
-- [CSS tutorial](https://www.csstutorial.net/)
-- [CSS tricks](https://css-tricks.com/)
+- [CSS design awards](https://cssdesignawards.com/)
+- [Awwwards](https://www.awwwards.com/websites/css3/)
+- [CSS nectar](https://cssnectar.com/)
+- [Design modo](https://designmodo.com/css-website-designs/)
+- [Gradient generator](https://csswinner.com/)
+
+## Document and notes
+
+- [W3 Schools](https://www.w3schools.com/css/)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [DevDocs](https://devdocs.io/css/)
+- [Geeks for geeks](https://www.geeksforgeeks.org/css-tutorials/)
+- [Tutorials point](https://www.tutorialspoint.com/tutorial_view.php?cid=css&pid=index.htm)
+
+## GitHub Repo
+
+- [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
+- [30 seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+- [Awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 
 ## Learn by playing
 
@@ -160,3 +137,26 @@
 - [Tooplate](https://www.tooplate.com/free-templates)
 - [Nice page](https://nicepage.com/css-templates)
 - [Templatemo](https://templatemo.com/)
+
+## Threads
+
+- [CSS arts](https://twitter.com/Prathkum/status/1306555442298908672?s=20)
+- [Grid](https://twitter.com/Prathkum/status/1374652212928987137?s=20)
+- [Flex](https://twitter.com/Prathkum/status/1361931227830358018?s=20)
+- [CSS Animations](https://twitter.com/Prathkum/status/1366278875467153413)
+
+## Websites
+
+- [CSS reference](https://cssreference.io/)
+- [Learn to code](https://learn.shayhowe.com/)
+- [CSS layouts](https://learnlayout.com/)
+- [CSS tutorial](https://www.csstutorial.net/)
+- [CSS tricks](https://css-tricks.com/)
+
+## YouTube
+
+- [Free code camp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Traversy media](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Coding artist](https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ)
+- [Edureka](https://www.youtube.com/watch?v=3_9znKVNe5g)
+- [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
