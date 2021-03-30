@@ -1,6 +1,7 @@
-<div align="center">
+<div>
    <h1>Awesome-CSS-Resources</h1>
-  <p>🚩This repo was created from <a href="https://twitter.com/Prathkum/status/1376149828514811909?s=19">@Prathkum's mega CSS thread</a> on twitter🚩</p>
+   <p>🔥Awesome list of free CSS resources</p>
+   <p>🚩This repo was created from <a href="https://twitter.com/Prathkum/status/1376149828514811909?s=19">@Prathkum's mega CSS thread</a> on twitter🚩</p>
    <p>
      <a href ="https://github.com/Seybel/Awesome-CSS-Resources"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
      <a href="#"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
@@ -42,7 +43,7 @@
 ## AI integrated color picker
 
 - [Khroma](http://khroma.co/)
-- [Colourmind](http://colormind.io/)
+- [Colormind](http://colormind.io/)
 - [Eva Design System](https://colors.eva.design/)
 - [AI color generator](https://hotpot.ai/color-generator)
 
