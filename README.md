@@ -23,7 +23,7 @@
 - [YouTube](#youtube)
 - [Animation Libraries](#animation-libraries)
 - [Threads](#threads)
-- [Website](#website)
+- [Websites](#websites)
 - [Learn by playing](#learn-by-playing)
 - [Templates](#templates)
 
@@ -101,3 +101,62 @@
 - [Flex cheet sheet](https://yoksel.github.io/flex-cheatsheet/)
 - [Flex](https://flexbox.malven.co/)
 - [Position](https://pbs.twimg.com/media/ExkQ-Y3XMAMpmMv?format=jpg&name=medium)
+
+## Chrome Extension
+
+- [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en)
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi?hl=en)
+- [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
+- [Perfect Pixel](http://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
+- [Colorpick eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en/)
+- [CSS viewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
+- [CSS Scan](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en)
+
+## YouTube
+
+- [Free code camp](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Traversy media](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Coding artist](https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ)
+- [Edureka](https://www.youtube.com/watch?v=3_9znKVNe5g)
+- [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
+
+## Animation libraries
+
+- [Animate.css](https://animate.style/)
+- [OBNOXIOUS.css](https://tholman.com/obnoxious/)
+- [CSShake](http://elrumordelaluz.github.io/csshake/)
+- [Anim XYZ](https://animxyz.com/)
+- [Animista](https://animista.net/)
+- [Hover.CSS](http://ianlunn.github.io/Hover/)
+- [Magic](https://www.minimamente.com/project/magic/)
+
+## Threads
+
+- [CSS arts](https://twitter.com/Prathkum/status/1306555442298908672?s=20)
+- [Grid](https://twitter.com/Prathkum/status/1374652212928987137?s=20)
+- [Flex](https://twitter.com/Prathkum/status/1361931227830358018?s=20)
+- [CSS Animations](https://twitter.com/Prathkum/status/1366278875467153413)
+
+## Websites
+
+- [CSS reference](https://cssreference.io/)
+- [Learn to code](https://learn.shayhowe.com/)
+- [CSS layouts](https://learnlayout.com/)
+- [CSS tutorial](https://www.csstutorial.net/)
+- [CSS tricks](https://css-tricks.com/)
+
+## Learn by playing
+
+- [Grid Garden](https://cssgridgarden.com/)
+- [Unfold](hhttps://rupl.github.io/unfold/)
+- [Flexbox defense](http://www.flexboxdefense.com/)
+- [CSS Diner](https://flukeout.github.io/)
+- [Flexbox froggy](https://flexboxfroggy.com/)
+
+## Templates
+
+- [Free CSS templates](https://www.free-css.com/free-css-templates)
+- [Templates](https://templated.co/)
+- [Tooplate](https://www.tooplate.com/free-templates)
+- [Nice page](https://nicepage.com/css-templates)
+- [Templatemo](https://templatemo.com/)
