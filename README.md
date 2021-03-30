@@ -60,7 +60,8 @@
 - [Codepen](https://codepen.io/collection/DYpwPE)
 - [Code my UI](https://codemyui.com/tag/pure-css/)
 
-## Documents and notes
+## Document and notes
+
 - [W3 Schools](https://www.w3schools.com/css/)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [DevDocs](https://devdocs.io/css/)
@@ -68,6 +69,7 @@
 - [Tutorials point](https://www.tutorialspoint.com/tutorial_view.php?cid=css&pid=index.htm)
 
 ## CSS generator
+
 - [Stripes generator](https://stripesgenerator.com/)
 - [Gradient generator](https://cssgradient.io/)
 - [Pattern generator](http://www.patternify.com/)
@@ -75,3 +77,26 @@
 - [Layout generator](https://grid.layoutit.com/)
 
 ## Design Inspiration
+
+- [CSS design awards](https://cssdesignawards.com/)
+- [Awwwards](https://www.awwwards.com/websites/css3/)
+- [CSS nectar](https://cssnectar.com/)
+- [Design modo](https://designmodo.com/css-website-designs/)
+- [Gradient generator](https://csswinner.com/)
+
+## GitHub Repo
+
+- [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
+- [30 seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
+- [Awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+
+## Cheat Sheets
+
+- [I love Coding](https://ilovecoding.org/blog/htmlcss-cheatsheet)
+- [Dev Hints](https://devhints.io/css)
+- [HTML CheatSheet](https://htmlcheatsheet.com/css/)
+- [Grid](https://grid.malven.co/)
+- [CSS Grid](https://yoksel.github.io/grid-cheatsheet/)
+- [Flex cheet sheet](https://yoksel.github.io/flex-cheatsheet/)
+- [Flex](https://flexbox.malven.co/)
